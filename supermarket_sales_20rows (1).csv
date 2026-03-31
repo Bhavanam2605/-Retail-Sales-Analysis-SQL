@@ -1,0 +1,21 @@
+InvoiceID,Branch,City,CustomerType,Gender,ProductLine,UnitPrice,Quantity,Payment,Tax,Total
+INV-2000,B,Bangalore,Member,Female,Health & Beauty,288.81,2,Card,28.88,606.5
+INV-2001,B,Mumbai,Normal,Male,Health & Beauty,617.5,2,Card,61.75,1296.75
+INV-2002,A,Bangalore,Member,Male,Home Appliances,907.69,1,Card,45.38,953.07
+INV-2003,A,Mumbai,Normal,Male,Food & Beverages,557.83,1,Cash,27.89,585.72
+INV-2004,B,Mumbai,Normal,Female,Home Appliances,610.69,6,Cash,183.21,3847.35
+INV-2005,A,Delhi,Normal,Male,Health & Beauty,87.32,1,Card,4.37,91.69
+INV-2006,B,Bangalore,Member,Female,Fashion,389.32,5,Card,97.33,2043.93
+INV-2007,B,Bangalore,Normal,Female,Health & Beauty,125.63,7,Cash,43.97,923.38
+INV-2008,A,Mumbai,Member,Male,Fashion,340.19,7,Card,119.07,2500.4
+INV-2009,B,Delhi,Normal,Female,Fashion,364.18,1,UPI,18.21,382.39
+INV-2010,B,Mumbai,Normal,Female,Home Appliances,785.14,3,Cash,117.77,2473.19
+INV-2011,C,Delhi,Member,Male,Sports,87.96,4,Card,17.59,369.43
+INV-2012,A,Delhi,Normal,Female,Health & Beauty,458.02,4,Cash,91.6,1923.68
+INV-2013,B,Delhi,Member,Male,Food & Beverages,349.18,3,Cash,52.38,1099.92
+INV-2014,A,Delhi,Member,Male,Food & Beverages,654.67,7,Card,229.13,4811.82
+INV-2015,C,Mumbai,Normal,Male,Health & Beauty,379.03,1,UPI,18.95,397.98
+INV-2016,A,Delhi,Member,Male,Electronic Accessories,90.94,6,Card,27.28,572.92
+INV-2017,C,Bangalore,Member,Male,Electronic Accessories,885.92,2,Card,88.59,1860.43
+INV-2018,A,Mumbai,Member,Female,Food & Beverages,775.08,4,UPI,155.02,3255.34
+INV-2019,A,Mumbai,Normal,Male,Health & Beauty,884.19,7,Card,309.47,6498.8
